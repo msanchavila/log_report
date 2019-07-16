@@ -15,7 +15,7 @@ The reports must allow filtering of the data by a user, time, URL or HTTP reques
 
 ## Logs
 
-For this project, we'll generate fkae log data using (flog)[https://github.com/mingrammer/flog]. Thanks to (mingrammer)[https://github.com/mingrammer] for creating this awesome tool!
+For this project, we'll generate fake log data using (flog)[https://github.com/mingrammer/flog]. Thanks to (mingrammer)[https://github.com/mingrammer] for creating this awesome tool!
 
 ### Log Example
 
