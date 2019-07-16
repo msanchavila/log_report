@@ -37,9 +37,9 @@ The reports must allow filtering of the data by a user, time, URL or HTTP reques
 
     `> conda activate log_report`
 
-If all commands are completed successfully, your `cmd` should look (similar) to this:
+If all commands are completed successfully, your command line prompt should look similar to this
 
-    `(log_report) >`
+`(log_report) > `
 
 This means your `log_report` virtual environment is active and ready to use! :)
 
