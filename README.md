@@ -4,7 +4,7 @@ The purpose of this project is to create a reactive dash board from static log f
 
 ## Prompt
 
-There are 2 services that create daily access log files. Your task is to parse out each log and create a daily service access report. These reports can include:
+There are 2 services that create daily access log files. Your task is to parse out each log and create a daily report which include:
 1. Number of visits
 2. Number of users
 3. URLs/Endpoints visited
