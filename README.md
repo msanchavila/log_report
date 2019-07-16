@@ -11,7 +11,7 @@ There are 2 services that create daily access log files. Your task is to parse o
 4. Number HTTP requests
 5. etc
 
-The reports must allow filtering of the data by a user, time, URL or HTTP request.
+The reports must allow filtering by a user, time, URL or HTTP request.
 
 ## Prerequisites
 
