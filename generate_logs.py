@@ -15,8 +15,8 @@ from datetime import datetime as dt
 SERVICES       = ['MemeLourde', 'AutoMeme']
 FLOG_EXE       = 'flog/flog.exe'
 DATESTAMP      = dt.now().strftime('%Y%m%d')
-LOG_TOTAL_SIZE = '10485760' # 10MB
-LOG_MAX_SIZE   = '1048576'  # 1MB
+LOG_TOTAL_SIZE = '10000000' # ~10MB
+LOG_MAX_SIZE   = '1000000'  # ~1MB
 
 
 def main(log_dir):
